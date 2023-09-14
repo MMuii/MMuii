@@ -1,16 +1,13 @@
-### Hi there 👋
+## Nice to see you there! 👋
+I'm Marcin, a fullstack developer in deep relationship with JavaScript ecosystem and cloud :cloud: 
 
-<!--
-**MMuii/MMuii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm always open to collaboration and bringing innovative ideas to life. 🚀 
 
-Here are some ideas to get you started:
+Feel free to connect with me here:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Linkedin Badge](https://img.shields.io/badge/-marcinswiderek2-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcin-swiderek2/)](https://www.linkedin.com/in/marcin-swiderek2/)
+[![Gmail Badge](https://img.shields.io/badge/-marcin.swiderek2@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marcin.swiderek2@gmail.com)](mailto:marcin.swiderek2@gmail.com)
+
+<br>
+
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fmmuii&label=Visitors&countColor=%23dce775)
